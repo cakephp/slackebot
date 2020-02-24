@@ -9,6 +9,10 @@
   },
   "author": "Jose Diaz-Gonzalez",
   "license": "ISC",
+  "engines" : {
+    "node": "10.17.0",
+    "npm": "6.11.3"
+  },
   "dependencies": {
     "slack-irc": "3.8.0"
   }

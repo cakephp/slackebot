@@ -1,4 +1,4 @@
-var slackIRC = require('slack-irc');
+var slackIRC = require('slack-irc').default;
 
 var autoSendCommands = [];
 var floodProtection = process.env.IRC_FLOOD_PROTECTION;
